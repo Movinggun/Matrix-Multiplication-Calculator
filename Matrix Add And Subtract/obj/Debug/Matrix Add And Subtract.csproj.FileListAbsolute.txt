@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Matrix Add And Subtyract\Matrix Add And Subtyract\bin\Debug\Matrix Add And Subtyract.exe.config
+C:\Users\PC\source\repos\Matrix Add And Subtyract\Matrix Add And Subtyract\bin\Debug\Matrix Add And Subtyract.exe
+C:\Users\PC\source\repos\Matrix Add And Subtyract\Matrix Add And Subtyract\bin\Debug\Matrix Add And Subtyract.pdb
+C:\Users\PC\source\repos\Matrix Add And Subtyract\Matrix Add And Subtyract\obj\Debug\Matrix Add And Subtract.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Matrix Add And Subtyract\Matrix Add And Subtyract\obj\Debug\Matrix_Add_And_Subtyract.Form1.resources
+C:\Users\PC\source\repos\Matrix Add And Subtyract\Matrix Add And Subtyract\obj\Debug\Matrix_Add_And_Subtyract.Properties.Resources.resources
+C:\Users\PC\source\repos\Matrix Add And Subtyract\Matrix Add And Subtyract\obj\Debug\Matrix Add And Subtract.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\Matrix Add And Subtyract\Matrix Add And Subtyract\obj\Debug\Matrix Add And Subtract.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Matrix Add And Subtyract\Matrix Add And Subtyract\obj\Debug\Matrix Add And Subtyract.exe
+C:\Users\PC\source\repos\Matrix Add And Subtyract\Matrix Add And Subtyract\obj\Debug\Matrix Add And Subtyract.pdb
